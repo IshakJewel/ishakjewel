@@ -1,9 +1,10 @@
-## Hi there 👋
 
+#.NET Developer | 3.5+ Years Experience | ASP.NET Core | MVC | Web API | SQL Server
 
-**IshakJewel/ishakjewel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate and results-driven .NET Developer with hands-on experience building scalable enterprise solutions.
+I specialize in ASP.NET Core (6/7/8), MVC, Web API, Entity Framework Core, SQL Server, and modern web technologies.
 
-Here are some ideas to get you started:
+I focus on delivering high-quality, clean, maintainable code and actively contribute to full SDLC following Agile methodologies.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
