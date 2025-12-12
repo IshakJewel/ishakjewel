@@ -1,63 +1,25 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23832
-Fork on GitHub
-8171
+### Hi there 👋, I'm Md. Jewel
+#### I am a .NET Developer
+![I am .NET Developer](https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-1/468400338_3819516621648277_5072819714183504648_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=107&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeHy4qO7Txygmdxww1GELVDxLwceaC5KuDYvBx5oLkq4NlAr0wCNOzL_ysXrne4PtrFJlkSOcjVUgnLZUgiSVSAS&_nc_ohc=U9jlh-zUKe0Q7kNvwGh-xkD&_nc_oc=AdkJysAzaYd5eHjfA96p9bq48rqkeFudT5somvw2qqlu49qrT0a8hZ9Cta5ZmXZ8vig&_nc_zt=24&_nc_ht=scontent.fdac20-1.fna&_nc_gid=BiJfrgWaNwcQjsbCCojrEQ&oh=00_Afm6ZCfaDHlc4uwwxCaLw5EBJXnXplvfBCqJzizFH9mlHA&oe=694221AD)
 
-back to edit
+Highly skilled .NET Developer with 3.5+ years of experience in designing, developing, and maintaining scalable web applications. Expertise in ASP.NET Core, ASP.NET MVC, ASP.NET Web Forms, C#, SQL Server, and RESTful APIs. Experienced in Agile methodologies to enhance software quality and deployment efficiency. Seeking to contribute expertise in .NET development to a dynamic team.
 
-copy-markdown
+Skills: • Programming Languages & Frameworks: C#, ASP.NET Core, ASP.NET MVC, ASP.NET Web Forms, .NET 6/8, Entity Framework Core, LINQ, ADO.NET • API Development: RESTful APIs, Web API, Microservices, Swagger • Frontend Technologies: HTML5, CSS3, JavaScript, jQuery, AJAX, Bootstrap, Blazer • Databases: SQL Server 2015/2019, Stored Procedures, Query Optimization • Development Tools: Visual Studio, Visual Studio Code, Git, SVN, Postman • Software Development Concepts: OOP, SOLID Principles, SDLC, Agile, CMMI
 
-download markdown
+- 🔭 I’m currently working on Akij Group 
+- 🌱 I’m currently learning React.js | RESTful API 
+- 👯 I’m looking to collaborate on .NET / ASP.NET project, SQL / database design, RDLC report, Portfolio website 
 
-download backup
 
-preview
-<h1 align="center">Hi 👋, I'm MD. JEWEL</h1>
-<h3 align="center">.Net Developer</h3>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/IshakJewel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mdjewel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/md.ishak.hossain.jewel)  
 
-- 🔭 I’m currently working on [Programmer at Akij Group](ERP Invetory,Sale,Account)
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-- 👯 I’m looking to collaborate on [Associate Software Engineer at Omega Exim Limited](ERP HRM, Inventory, Account)
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/IshakJewel)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mdjewel418470205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdjewel418470205" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/md.ishak.hossain.jewel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.ishak.hossain.jewel/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/jewel1995/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jewel1995/" height="30" width="40" /></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/IshakJewel)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/IshakJewel&show_icons=true)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishakjewel&show_icons=true&locale=en&layout=compact" alt="ishakjewel" /></p>
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/IshakJewel/contributions?format=svg&private=false)  
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
