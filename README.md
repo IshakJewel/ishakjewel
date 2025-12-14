@@ -4,12 +4,13 @@
 
 Highly skilled .NET Developer with 4+ years of experience in designing, developing, and maintaining scalable web applications. Expertise in ASP.NET Core, ASP.NET MVC, ASP.NET Web Forms, C#, SQL Server, and RESTful APIs. Experienced in Agile methodologies to enhance software quality and deployment efficiency. Seeking to contribute expertise in .NET development to a dynamic team.
 
-Skills: • Programming Languages & Frameworks: C#, ASP.NET Core, ASP.NET MVC, ASP.NET Web Forms, .NET 6/8, Entity Framework Core, LINQ, ADO.NET 
-        • API Development: RESTful APIs, Web API, Microservices, Swagger 
-        • Frontend Technologies: HTML5, CSS3, JavaScript, jQuery, AJAX, Bootstrap, Blazer 
-        • Databases: SQL Server 2015/2019, Stored Procedures, Query Optimization 
-        • Development Tools: Visual Studio, Visual Studio Code, Git, SVN, Postman 
-        • Software Development Concepts: OOP, SOLID Principles, SDLC, Agile, CMMI
+### Skills: 
+#### • Programming Languages & Frameworks: C#, ASP.NET Core, ASP.NET MVC, ASP.NET Web Forms, .NET 6/8, Entity Framework Core, LINQ, ADO.NET 
+#### • API Development: RESTful APIs, Web API, Microservices, Swagger 
+#### • Frontend Technologies: HTML5, CSS3, JavaScript, jQuery, AJAX, Bootstrap, Blazer 
+#### • Databases: SQL Server 2015/2019, Stored Procedures, Query Optimization 
+#### • Development Tools: Visual Studio, Visual Studio Code, Git, SVN, Postman 
+#### • Software Development Concepts: OOP, SOLID Principles, SDLC, Agile, CMMI
 
 - 🔭 I’m currently working. NET Developer | Akij Group|Dhaka, Bangladesh|07/2024 - Continue.
 -  🔭 I’m working previously. Associate Software Engineer|Omega Exim Limited|Dhaka, Bangladesh|06-2021 –07-2023
