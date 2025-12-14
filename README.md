@@ -3,7 +3,7 @@
 ![I am .NET Developer](https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-1/468400338_3819516621648277_5072819714183504648_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=107&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeHy4qO7Txygmdxww1GELVDxLwceaC5KuDYvBx5oLkq4NlAr0wCNOzL_ysXrne4PtrFJlkSOcjVUgnLZUgiSVSAS&_nc_ohc=U9jlh-zUKe0Q7kNvwGh-xkD&_nc_oc=AdkJysAzaYd5eHjfA96p9bq48rqkeFudT5somvw2qqlu49qrT0a8hZ9Cta5ZmXZ8vig&_nc_zt=24&_nc_ht=scontent.fdac20-1.fna&_nc_gid=BiJfrgWaNwcQjsbCCojrEQ&oh=00_Afm6ZCfaDHlc4uwwxCaLw5EBJXnXplvfBCqJzizFH9mlHA&oe=694221AD)
 
 ## Professional Summary 
-#### .NET Developer with 4+ years of experience in designing, developing, and maintaining enterprise web applications using ASP.NET Core, MVC, Web API, and SQL Server Experienced in ERP systems, RESTful APIs, performance #### optimization, and Agile development. Proven ability to deliver scalable, high-performance solutions and collaborate effectively with cross-functional teams.
+#### .NET Developer with 4+ years of experience in designing, developing, and maintaining enterprise web applications using ASP.NET Core, MVC, Web API, and SQL Server. Experienced in ERP systems, RESTful APIs, performance optimisation, and Agile development. Proven ability to deliver scalable, high-performance solutions and collaborate effectively with cross-functional teams.
 
 
 ## Professional Summary 
