@@ -5,7 +5,7 @@
 ## Professional Summary 
 #### .NET Developer with 4+ years of experience in designing, developing, and maintaining enterprise web applications using ASP.NET Core, MVC, Web API, and SQL Server. Experienced in ERP systems, RESTful APIs, performance optimisation, and Agile development. Proven ability to deliver scalable, high-performance solutions and collaborate effectively with cross-functional teams.
 
-## Professional Summary 
+## Professional Technical Skills 
 #### • Programming Languages & Frameworks: C#, ASP.NET Core, ASP.NET MVC, ASP.NET Web Forms, .NET 6/8, Entity Framework Core, LINQ, ADO.NET 
 #### • API Development: RESTful APIs, Web API, Microservices, Swagger 
 #### • Frontend Technologies: HTML5, CSS3, JavaScript, jQuery, AJAX, Bootstrap, Blazer 
